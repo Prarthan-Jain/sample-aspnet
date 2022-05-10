@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
-    <xmlns="http://schemas.microsoft.com/developer/msbuild/2003"> 
   </ItemGroup>
 
 </Project>
